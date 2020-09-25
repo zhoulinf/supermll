@@ -19,4 +19,6 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-新加：解决冲突
+新加：解决冲突 
+master上的修改
+
