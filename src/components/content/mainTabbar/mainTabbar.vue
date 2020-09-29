@@ -1,26 +1,26 @@
 <template>
   <div>
     <Tabbar>
-      <Tabbaritem path='/home' activeColor="red">
+      <Tabbaritem path='/home' activeColor="#ff8198">
         <svg class="icon" aria-hidden="true" slot="img" >
           <use xlink:href="#icon-shouye1" />
         </svg>
         <div slot="text">首页</div>
       </Tabbaritem>
-      <Tabbaritem path='/category' activeColor="red">
+      <Tabbaritem path='/category' activeColor="#ff8198">
         <svg class="icon" aria-hidden="true" slot="img">
           <use xlink:href="#icon-leimupinleifenleileibie
 " />
-        </svg>red
+        </svg>
         <div slot="text">分类</div>
       </Tabbaritem>
-      <Tabbaritem path='/shopcar' activeColor="red">
+      <Tabbaritem path='/shopcar' activeColor="#ff8198">
         <svg class="icon" aria-hidden="true" slot="img">
           <use xlink:href="#icon-gouwuche1" />
         </svg>
         <div slot="text">购物车</div>
       </Tabbaritem>
-      <Tabbaritem path='/profile' activeColor="red">
+      <Tabbaritem path='/profile' activeColor="#ff8198">
         <svg class="icon" aria-hidden="true" slot="img">
           <use xlink:href="#icon-geren" />
         </svg>

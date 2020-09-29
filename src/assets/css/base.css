@@ -1,5 +1,6 @@
 @import "./normalize.css";
 
+
 :root {
   --color-text: #666;
   --color-high-text: #ff5777;
@@ -63,3 +64,4 @@ a {
 .right {
   float: right;
 }
+
